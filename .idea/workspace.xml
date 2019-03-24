@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5789b571-ccfd-4b4e-9587-7a86671304bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Git.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buyme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Git.py">
+        <entry file="file://$PROJECT_DIR$/123">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -452,6 +450,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Git.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/testing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -459,7 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Git.py">
+    <entry file="file://$PROJECT_DIR$/123">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
