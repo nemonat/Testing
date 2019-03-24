@@ -19,6 +19,8 @@ subscribe2.click()
 my_name = driver.find_element_by_xpath("//input[@type='text']")
 my_name.send_keys("עינת")
 
+
+
 # Enter email address
 my_email = driver.find_element_by_xpath("//input[@type='email']")
 my_email.send_keys("222@22.com")
